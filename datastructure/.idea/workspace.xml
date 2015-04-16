@@ -4,7 +4,7 @@
     <list default="true" id="a5e93f98-481c-4435-ab23-1da7bc933c09" name="Default" comment="" />
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$USER_HOME$/IdeaProjects/untitled/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Recurrence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructure/recurrence/Recurrence.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/recurrence/Recurrence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
@@ -33,7 +33,7 @@
         </entry>
       </file>
       <file leaf-file-name="RecurrenceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/recurrence/RecurrenceTest.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/recurrence/RecurrenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
@@ -45,7 +45,7 @@
         </entry>
       </file>
       <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructure/list/List.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/list/List.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
@@ -55,7 +55,7 @@
         </entry>
       </file>
       <file leaf-file-name="ListTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/list/ListTest.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/list/ListTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
@@ -65,7 +65,7 @@
         </entry>
       </file>
       <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructure/stack/Stack.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/stack/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
@@ -75,7 +75,7 @@
         </entry>
       </file>
       <file leaf-file-name="StackTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/stack/StackTest.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/stack/StackTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
@@ -85,7 +85,7 @@
         </entry>
       </file>
       <file leaf-file-name="Stack2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructure/stack/Stack2.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/stack/Stack2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -95,7 +95,7 @@
         </entry>
       </file>
       <file leaf-file-name="Stack2Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/stack/Stack2Test.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/stack/Stack2Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -105,7 +105,7 @@
         </entry>
       </file>
       <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructure/list/LinkedList.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/list/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
@@ -115,10 +115,10 @@
         </entry>
       </file>
       <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/list/LinkedListTest.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/list/LinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2035139">
-              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.22254759">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -143,29 +143,29 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DataStrucureExampleTest.java" />
-        <option value="$PROJECT_DIR$/src/DataStructureExampleTest.java" />
-        <option value="$PROJECT_DIR$/test/DataStructureExampleTestTest.java" />
-        <option value="$PROJECT_DIR$/untitled.iml" />
-        <option value="$PROJECT_DIR$/test/DataStructureExampleTest22.java" />
-        <option value="$PROJECT_DIR$/src/DataStructureExample.java" />
-        <option value="$PROJECT_DIR$/src/list/listExample.java" />
-        <option value="$PROJECT_DIR$/src/list/ListExample.java" />
-        <option value="$PROJECT_DIR$/test/list/listExampleTest.java" />
-        <option value="$PROJECT_DIR$/src/list/LinkedList.java" />
-        <option value="$PROJECT_DIR$/test/DataStructureExampleTest.java" />
-        <option value="$PROJECT_DIR$/test/list/ListTest.java" />
-        <option value="$PROJECT_DIR$/src/list/List.java" />
-        <option value="$PROJECT_DIR$/src/stack/Stack.java" />
-        <option value="$PROJECT_DIR$/src/stack/Stack2.java" />
-        <option value="$PROJECT_DIR$/test/stack/Stack2Test.java" />
-        <option value="$PROJECT_DIR$/test/stack/StackTest.java" />
-        <option value="$PROJECT_DIR$/src/recurrence/DataStructureExample.java" />
-        <option value="$PROJECT_DIR$/test/recurrence/DataStructureExampleTest.java" />
-        <option value="$PROJECT_DIR$/test/recurrence/RecurrenceTest.java" />
-        <option value="$PROJECT_DIR$/datastructure/recurrence/DataStructureExample.java" />
-        <option value="$PROJECT_DIR$/datastructure/recurrence/Recurrence.java" />
-        <option value="$PROJECT_DIR$/test/list/LinkedListTest.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/src/DataStrucureExampleTest.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/src/DataStructureExampleTest.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/test/DataStructureExampleTestTest.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/untitled.iml" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/test/DataStructureExampleTest22.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/src/DataStructureExample.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/src/list/listExample.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/src/list/ListExample.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/test/list/listExampleTest.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/src/list/LinkedList.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/test/DataStructureExampleTest.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/test/list/ListTest.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/src/list/List.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/src/stack/Stack.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/src/stack/Stack2.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/test/stack/Stack2Test.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/test/stack/StackTest.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/src/recurrence/DataStructureExample.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/test/recurrence/DataStructureExampleTest.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/test/recurrence/RecurrenceTest.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/datastructure/recurrence/DataStructureExample.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/datastructure/recurrence/Recurrence.java" />
+        <option value="$USER_HOME$/IdeaProjects/untitled/test/list/LinkedListTest.java" />
       </list>
     </option>
   </component>
@@ -263,17 +263,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
+              <option name="myItemId" value="datastructure" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -283,7 +273,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
+              <option name="myItemId" value="datastructure" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -301,7 +291,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
+              <option name="myItemId" value="datastructure" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -319,7 +309,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
+              <option name="myItemId" value="datastructure" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -337,7 +327,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
+              <option name="myItemId" value="datastructure" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -357,7 +347,16 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -388,7 +387,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$USER_HOME$/IdeaProjects/untitled/test" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="recurrence" />
@@ -580,7 +579,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/untitled" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -653,7 +652,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/untitled" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -686,7 +685,7 @@
         <value defaultName="singleModule" />
       </option>
       <envs />
-      <dir value="$PROJECT_DIR$/test" />
+      <dir value="$USER_HOME$/IdeaProjects/untitled/test" />
       <patterns />
       <method />
     </configuration>
@@ -765,19 +764,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/recurrence/RecurrenceTest.java</url>
+          <url>file://$USER_HOME$/IdeaProjects/datastructure/test/recurrence/RecurrenceTest.java</url>
           <line>30</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/datastructure/recurrence/Recurrence.java</url>
+          <url>file://$USER_HOME$/IdeaProjects/datastructure/datastructure/recurrence/Recurrence.java</url>
           <line>19</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/list/LinkedListTest.java</url>
+          <url>file://$USER_HOME$/IdeaProjects/datastructure/test/list/LinkedListTest.java</url>
           <line>51</line>
           <properties />
           <option name="timeStamp" value="13" />
@@ -792,7 +791,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datastructure/recurrence/Recurrence.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/recurrence/Recurrence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
@@ -800,7 +799,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/recurrence/RecurrenceTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/recurrence/RecurrenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
@@ -810,7 +809,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/list/List.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/list/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
@@ -818,7 +817,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/list/ListTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/list/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
@@ -826,7 +825,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/stack/Stack.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/stack/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
@@ -834,7 +833,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/stack/StackTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/stack/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
@@ -842,7 +841,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/stack/Stack2.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/stack/Stack2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -850,7 +849,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/stack/Stack2Test.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/stack/Stack2Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -858,7 +857,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/list/LinkedList.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/list/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
@@ -866,7 +865,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/list/LinkedListTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/list/LinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -874,7 +873,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/recurrence/Recurrence.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/recurrence/Recurrence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
@@ -882,7 +881,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/recurrence/RecurrenceTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/recurrence/RecurrenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
@@ -892,7 +891,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/list/List.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/list/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
@@ -900,7 +899,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/list/ListTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/list/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -908,7 +907,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/list/LinkedList.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/list/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
@@ -916,7 +915,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/list/LinkedListTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/list/LinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
@@ -924,7 +923,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/recurrence/Recurrence.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/recurrence/Recurrence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -932,7 +931,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/recurrence/RecurrenceTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/recurrence/RecurrenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
@@ -942,7 +941,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/recurrence/Recurrence.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/recurrence/Recurrence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
@@ -950,7 +949,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/recurrence/RecurrenceTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/recurrence/RecurrenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="64" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
@@ -960,7 +959,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/recurrence/Recurrence.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/recurrence/Recurrence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -975,7 +974,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure.iml">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36772045">
           <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
@@ -989,7 +988,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/list/LinkedList.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/list/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
@@ -997,7 +996,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/list/List.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/list/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
@@ -1005,7 +1004,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/list/ListTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/list/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
@@ -1013,7 +1012,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/stack/Stack.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/stack/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
@@ -1021,7 +1020,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/stack/StackTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/stack/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
@@ -1029,7 +1028,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/stack/Stack2.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/stack/Stack2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -1037,7 +1036,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/stack/Stack2Test.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/stack/Stack2Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -1045,7 +1044,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/recurrence/RecurrenceTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/recurrence/RecurrenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
@@ -1055,7 +1054,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/recurrence/Recurrence.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/datastructure/recurrence/Recurrence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
@@ -1063,10 +1062,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/list/LinkedListTest.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/datastructure/test/list/LinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2035139">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.22254759">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
