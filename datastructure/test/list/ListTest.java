@@ -6,6 +6,7 @@ import junit.framework.TestCase;
 
 /**
  * 배열에 의한 리스트 구현
+ * 자료의 나열
  */
 public class ListTest extends TestCase {
 

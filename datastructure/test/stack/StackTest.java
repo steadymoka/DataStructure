@@ -4,6 +4,9 @@ package stack;
 import junit.framework.TestCase;
 
 
+/**
+ * int 만 들어가는 배열로 만든 스택
+ */
 public class StackTest extends TestCase {
 
 	private Stack stack;

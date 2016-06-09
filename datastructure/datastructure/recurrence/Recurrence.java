@@ -41,6 +41,21 @@ public class Recurrence {
 			return num * factorial( num - 1 );
 	}
 
+	public int factorial( int n, int a ) {
+
+		if ( n > -1 ) {
+
+			if ( n == 0 )
+				return a;
+			else
+				return factorial( n - 1, n * a );
+		}
+		else {
+
+			return -1;
+		}
+	}
+
 	public void reverse( char[] s, int first, int last ) {
 
 		if ( first > last ) {
@@ -63,21 +78,6 @@ public class Recurrence {
 			return 1;
 		else
 			return fibonacci( n - 1 ) + fibonacci( n - 2 );
-	}
-
-	public int factorial( int n, int a ) {
-
-		if ( n > -1 ) {
-
-			if ( n == 0 )
-				return a;
-			else
-				return factorial( n - 1, n * a );
-		}
-		else {
-
-			return -1;
-		}
 	}
 
 	public char[] reverse2( char[] s, char[] r, int size ) {

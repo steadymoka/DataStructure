@@ -1,9 +1,6 @@
 package list;
 
 
-import java.util.*;
-
-
 public class List {
 
 	private static final int MAX = 100;
