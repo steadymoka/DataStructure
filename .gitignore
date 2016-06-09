@@ -1,7 +1,9 @@
 *.class
+*.iml
 
-out/
+datastructure/out/
 
-.idea/
+/datastructure/.idea/
+datastructure/.idea/
 
 datastructure.iml
